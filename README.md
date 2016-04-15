@@ -8,14 +8,11 @@
 [![coverage:?](https://img.shields.io/coveralls/gearcase/invoke-fn/master.svg?style=flat-square)](https://coveralls.io/github/gearcase/invoke-fn)
 
 
-
 ## Install
 
 ```
 $ npm install --save invoke-fn 
 ```
-
-
 
 ## Usage
 
