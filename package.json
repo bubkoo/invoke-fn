@@ -1,6 +1,6 @@
 {
   "name": "invoke-fn",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A faster alternative to `Function#apply`.",
   "main": "index.js",
   "scripts": {
@@ -27,14 +27,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bubkoo/invoke-fn.git"
+    "url": "git+https://github.com/gearcase/invoke-fn.git"
   },
-  "author": "bubkoo <bubkoo.wy@gmail.com> (https://github.com/bubkoo)",
-  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bubkoo/invoke-fn/issues"
+    "url": "https://github.com/gearcase/invoke-fn/issues"
   },
-  "homepage": "https://github.com/bubkoo/invoke-fn#readme",
+  "homepage": "https://github.com/gearcase/invoke-fn#readme",
   "devDependencies": {
     "jshint": "^2.9.1",
     "chai": "^3.5.0",
