@@ -43,7 +43,6 @@ invoke(function (a, b, c, d) {
 
 ## Related
 
-- [invoke-fn](https://github.com/gearcase/invoke-fn) - A faster alternative to `Function#apply`.
 - [invoke-before](https://github.com/gearcase/invoke-before) - Returns a function that will only be executed before being called N times.
 - [invoke-after](https://github.com/gearcase/invoke-after) - Returns a function that will only be executed after being called N times.
 - [invoke-once](https://github.com/gearcase/invoke-once) - Restrict the given function only be invoked once.
